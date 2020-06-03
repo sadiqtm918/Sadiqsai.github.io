@@ -2748,10 +2748,10 @@ mark,
   .mouse{
     content: '';
     position: relative;
-    top: -50px;
+    top: -67px;
     left: 49%;
     width:25px;
-    height: 52px;
+    height: 50px;
     background: transparent;
     border-radius: 150px;
     border: 2px solid #fff;
